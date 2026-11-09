@@ -256,7 +256,7 @@ Software Engineer | Java | Spring Boot | React.js | Full-Stack Development
 
 - GitHub: https://github.com/rezaul-code
 - LinkedIn: https://linkedin.com/in/rezaul-khan
-- Portfolio: https://rezaul.online
+
 
 ---
 
